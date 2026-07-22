@@ -39,32 +39,13 @@ I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from
 
 ## Selected Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HuzaifaAbdulRehman/driver-drowsiness-detection">Driver Drowsiness Detection</a></h3>
-      <p>Real-time safety system combining a fine-tuned <strong>MobileNetV2</strong> eye-state classifier with MediaPipe facial landmarks. Achieved <strong>97.30% reported accuracy</strong> on the MRL Eye dataset.</p>
-      <p><code>Python</code> <code>TensorFlow</code> <code>MediaPipe</code> <code>OpenCV</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HuzaifaAbdulRehman/Electrolux-EMS">Electrolux EMS</a></h3>
-      <p>Electricity distribution management for customer billing, power usage, authentication, and service requests.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>MySQL</code> <code>Drizzle ORM</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HuzaifaAbdulRehman/fast-academic-hub">FAST Academic Hub</a></h3>
-      <p>Offline-first attendance planner that calculates attendance in real time and models planned absences as an installable responsive PWA.</p>
-      <p><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>PWA</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HuzaifaAbdulRehman/dijkstra-ml-routing-optimization">Dijkstra + ML Routing</a></h3>
-      <p>Route planning that combines graph search with engineered road features and XGBoost on real OpenStreetMap networks.</p>
-      <p><code>Python</code> <code>NetworkX</code> <code>OSMnx</code> <code>XGBoost</code></p>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/integrated-projects-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/integrated-projects-light.svg" />
+  <img width="100%" src="assets/integrated-projects-light.svg" alt="Four selected full-stack and applied AI projects" />
+</picture>
+
+**Repositories:** [Electrolux EMS](https://github.com/HuzaifaAbdulRehman/Electrolux-EMS) · [Driver Drowsiness Detection](https://github.com/HuzaifaAbdulRehman/driver-drowsiness-detection) · [Dijkstra + ML Routing](https://github.com/HuzaifaAbdulRehman/dijkstra-ml-routing-optimization) · [FAST Academic Hub](https://github.com/HuzaifaAbdulRehman/fast-academic-hub)
 
 ## Open Source
 
