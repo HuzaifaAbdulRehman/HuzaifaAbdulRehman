@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="225" viewBox="0 0 1000 225" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 225" role="img" aria-labelledby="title description">
   <title id="title">Oppia contribution in review</title>
   <desc id="description">A tested migration from Puppeteer to Playwright with 200 successful stress-test runs</desc>
 

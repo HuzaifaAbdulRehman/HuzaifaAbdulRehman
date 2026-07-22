@@ -7,9 +7,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.nu.edu.pk/">FAST NUCES</a> ·
-  <a href="https://github.com/oppia/oppia/issues/26819">Oppia contribution</a> ·
-  <a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/">LinkedIn</a>
+  <sub><a href="https://www.nu.edu.pk/">FAST NUCES</a> &nbsp;·&nbsp; <a href="https://github.com/oppia/oppia/issues/26819">Oppia contribution</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/">LinkedIn</a></sub>
 </p>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
