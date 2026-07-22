@@ -25,13 +25,15 @@
 
 ## About Me
 
-> **I build complete products where modern web engineering meets practical AI.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg" />
+  <img width="100%" src="assets/about-light.svg" alt="Full-stack development, applied AI, and open-source engineering" />
+</picture>
 
-I am a BS Computer Science student at **FAST NUCES, Karachi**, interested in taking ideas from interface to implementation. My work combines responsive full-stack applications with machine-learning systems that can be tested, measured, and improved.
+I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from interface to implementation. I build responsive applications and practical machine-learning systems with an emphasis on measurable results and reliable testing.
 
-`Full-stack development` `Applied AI` `Computer vision` `Open source`
-
-**Currently:** contributing tested Playwright migrations to Oppia and exploring internship and junior engineering opportunities.
+**Now:** contributing a tested Playwright migration to Oppia and exploring internship and junior engineering opportunities.
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
