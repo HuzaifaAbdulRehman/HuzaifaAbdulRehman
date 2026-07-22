@@ -39,15 +39,11 @@ I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from
 
 ## Technologies
 
-<p align="center">
-  <strong>Web and data</strong><br /><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,mysql&amp;perline=7" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, MySQL" />
-  <br />
-  <br /><strong>AI and engineering</strong><br /><br />
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,git,github&amp;perline=6" alt="Python, TensorFlow, OpenCV, scikit-learn, Git, GitHub" />
-</p>
-
-<p align="center"><em>Also worked with Drizzle ORM, MediaPipe, XGBoost, Streamlit, NetworkX, C, and C++.</em></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/technologies-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/technologies-light.svg" />
+  <img width="100%" src="assets/technologies-light.svg" alt="Technologies for web development, artificial intelligence, data, and engineering" />
+</picture>
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
@@ -84,7 +80,11 @@ I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from
 
 ## Open Source
 
-I submitted a migration of an [**Oppia**](https://github.com/oppia/oppia) community-library acceptance test from Puppeteer to **Playwright**. The contribution is currently awaiting maintainer review.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/open-source-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/open-source-light.svg" />
+  <img width="100%" src="assets/open-source-light.svg" alt="Oppia Playwright migration contribution currently in review" />
+</picture>
 
 - [Implementation and validation evidence](https://github.com/oppia/oppia/issues/26819#issuecomment-5043100774)
 - [Stress test: 200/200 desktop and mobile runs passed](https://github.com/HuzaifaAbdulRehman/oppia/actions/runs/29896087005) (203 workflow jobs total)
