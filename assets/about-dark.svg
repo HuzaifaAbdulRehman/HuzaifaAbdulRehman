@@ -10,7 +10,7 @@
   <line x1="1" y1="47" x2="999" y2="47" stroke="#2a2d31" stroke-width="1"/>
   <circle cx="34" cy="24" r="4" fill="#6fcf9e"/>
   <circle cx="34" cy="24" r="9" fill="none" stroke="#12261c" stroke-width="6"/>
-  <text x="54" y="29" fill="#9a958a" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="0.3">about.md — huzaifa-abdul-rehman/profile</text>
+  <text x="54" y="30" fill="#9a958a" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="0.3">about.md — huzaifa-abdul-rehman/profile</text>
 
   <!-- rail -->
   <line x1="46" y1="100" x2="46" y2="228" stroke="#2a2d31" stroke-width="1"/>
@@ -24,7 +24,7 @@
     <!-- entry 01 -->
     <text x="72" y="98" fill="#ff8a3d" font-size="12" font-weight="700" letter-spacing="0.8">01 · WHO</text>
   </g>
-  <g font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#e8e6e1">
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="32" fill="#e8e6e1">
     <text x="72" y="132">BS Computer Science student building</text>
     <text x="72" y="166"><tspan fill="#ff8a3d">end-to-end products</tspan><tspan> that pair modern</tspan></text>
     <text x="72" y="200">web apps with practical machine-learning systems.</text>
@@ -37,42 +37,42 @@
     <!-- row 1 -->
     <rect x="72" y="264" width="278" height="66" rx="4" fill="#14171b" stroke="#2a2d31"/>
     <text x="88" y="286" fill="#9a958a" font-size="10.5" letter-spacing="0.6">NAME</text>
-    <text x="88" y="309" fill="#e8e6e1" font-size="14.5" font-weight="700">Huzaifa Abdul</text>
-    <text x="88" y="326" fill="#e8e6e1" font-size="14.5" font-weight="700">Rehman</text>
+    <text x="88" y="307" fill="#e8e6e1" font-size="17" font-weight="700">Huzaifa Abdul</text>
+    <text x="88" y="327" fill="#e8e6e1" font-size="17" font-weight="700">Rehman</text>
 
     <rect x="362" y="264" width="278" height="66" rx="4" fill="#14171b" stroke="#2a2d31"/>
     <text x="378" y="286" fill="#9a958a" font-size="10.5" letter-spacing="0.6">ROLE</text>
-    <text x="378" y="309" fill="#e8e6e1" font-size="14.5" font-weight="700">Full-Stack AI</text>
-    <text x="378" y="326" fill="#e8e6e1" font-size="14.5" font-weight="700">Engineer</text>
+    <text x="378" y="307" fill="#e8e6e1" font-size="17" font-weight="700">Full-Stack AI</text>
+    <text x="378" y="327" fill="#e8e6e1" font-size="17" font-weight="700">Engineer</text>
 
     <rect x="652" y="264" width="278" height="66" rx="4" fill="#14171b" stroke="#2a2d31"/>
     <text x="668" y="286" fill="#9a958a" font-size="10.5" letter-spacing="0.6">EDUCATION</text>
-    <text x="668" y="309" fill="#e8e6e1" font-size="14.5" font-weight="700">BS CS · FAST NUCES</text>
-    <text x="668" y="326" fill="#e8e6e1" font-size="14.5" font-weight="700">Karachi</text>
+    <text x="668" y="307" fill="#e8e6e1" font-size="17" font-weight="700">BS CS · FAST NUCES</text>
+    <text x="668" y="327" fill="#e8e6e1" font-size="17" font-weight="700">Karachi</text>
 
     <!-- row 2 -->
     <rect x="72" y="342" width="278" height="66" rx="4" fill="#14171b" stroke="#2a2d31"/>
     <text x="88" y="364" fill="#9a958a" font-size="10.5" letter-spacing="0.6">FOCUS</text>
-    <text x="88" y="387" fill="#e8e6e1" font-size="13.5" font-weight="700">Full-stack products</text>
-    <text x="88" y="404" fill="#e8e6e1" font-size="13.5" font-weight="700">measurable AI systems</text>
+    <text x="88" y="385" fill="#e8e6e1" font-size="16" font-weight="700">Full-stack products</text>
+    <text x="88" y="405" fill="#e8e6e1" font-size="16" font-weight="700">measurable AI systems</text>
 
     <rect x="362" y="342" width="278" height="66" rx="4" fill="#14171b" stroke="#2a2d31"/>
     <text x="378" y="364" fill="#9a958a" font-size="10.5" letter-spacing="0.6">OPEN TO</text>
-    <text x="378" y="387" fill="#e8e6e1" font-size="13.5" font-weight="700">Internships · junior</text>
-    <text x="378" y="404" fill="#e8e6e1" font-size="13.5" font-weight="700">full-stack roles</text>
+    <text x="378" y="385" fill="#e8e6e1" font-size="16" font-weight="700">Internships · junior</text>
+    <text x="378" y="405" fill="#e8e6e1" font-size="16" font-weight="700">full-stack roles</text>
 
     <rect x="652" y="342" width="278" height="66" rx="4" fill="#14171b" stroke="#2a2d31"/>
     <text x="668" y="364" fill="#9a958a" font-size="10.5" letter-spacing="0.6">PRINCIPLE</text>
-    <text x="668" y="387" fill="#e8e6e1" font-size="13.5" font-weight="700">Build, measure, test,</text>
-    <text x="668" y="404" fill="#e8e6e1" font-size="13.5" font-weight="700">iterate</text>
+    <text x="668" y="385" fill="#e8e6e1" font-size="16" font-weight="700">Build, measure, test,</text>
+    <text x="668" y="405" fill="#e8e6e1" font-size="16" font-weight="700">iterate</text>
   </g>
 
   <!-- entry 03 -->
   <text x="72" y="448" fill="#ff8a3d" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">03 · STATUS</text>
-  <text x="72" y="479" fill="#9a958a" font-family="Segoe UI, Arial, sans-serif" font-size="16">Currently shipping a tested Playwright migration to Oppia and</text>
-  <text x="72" y="504" fill="#9a958a" font-family="Segoe UI, Arial, sans-serif" font-size="16">exploring internship and junior engineering roles.</text>
+  <text x="72" y="479" fill="#9a958a" font-family="Segoe UI, Arial, sans-serif" font-size="19">Currently shipping a tested Playwright migration to Oppia and</text>
+  <text x="72" y="507" fill="#9a958a" font-family="Segoe UI, Arial, sans-serif" font-size="19">exploring internship and junior engineering roles.</text>
 
-  <rect x="72" y="524" width="330" height="34" rx="4" fill="#12261c" stroke="#6fcf9e"/>
-  <text x="90" y="546" fill="#ff8a3d" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700">&gt;</text>
-  <text x="106" y="546" fill="#6fcf9e" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">build → measure → test → iterate</text>
+  <rect x="72" y="524" width="382" height="38" rx="4" fill="#12261c" stroke="#6fcf9e"/>
+  <text x="90" y="549" fill="#ff8a3d" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700">&gt;</text>
+  <text x="110" y="549" fill="#6fcf9e" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700">build → measure → test → iterate</text>
 </svg>
