@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 580" role="img" aria-labelledby="title description">
   <title id="title">About Huzaifa Abdul Rehman</title>
   <desc id="description">Build log: who I am, my profile, and current status</desc>
 
-  <rect x="1" y="1" width="998" height="558" rx="8" fill="#f2efe9" stroke="#ddd7c9" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="578" rx="8" fill="#f2efe9" stroke="#ddd7c9" stroke-width="2"/>
 
   <!-- log header bar -->
   <rect x="1" y="1" width="998" height="46" rx="8" fill="#ffffff"/>
@@ -14,11 +14,11 @@
 
   <!-- rail -->
   <line x1="46" y1="100" x2="46" y2="228" stroke="#ddd7c9" stroke-width="1"/>
-  <line x1="46" y1="248" x2="46" y2="410" stroke="#ddd7c9" stroke-width="1"/>
-  <line x1="46" y1="430" x2="46" y2="505" stroke="#ddd7c9" stroke-width="1"/>
+  <line x1="46" y1="248" x2="46" y2="430" stroke="#ddd7c9" stroke-width="1"/>
+  <line x1="46" y1="450" x2="46" y2="525" stroke="#ddd7c9" stroke-width="1"/>
   <circle cx="46" cy="94" r="5" fill="#c25a1e"/>
   <circle cx="46" cy="242" r="5" fill="#c25a1e"/>
-  <circle cx="46" cy="424" r="5" fill="#c25a1e"/>
+  <circle cx="46" cy="444" r="5" fill="#c25a1e"/>
 
   <g font-family="Consolas, 'Courier New', monospace">
     <!-- entry 01 -->
@@ -35,38 +35,44 @@
 
   <g font-family="Consolas, 'Courier New', monospace">
     <!-- row 1 -->
-    <rect x="72" y="264" width="278" height="62" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
+    <rect x="72" y="264" width="278" height="66" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
     <text x="88" y="286" fill="#5c574d" font-size="10.5" letter-spacing="0.6">NAME</text>
-    <text x="88" y="308" fill="#1b1a17" font-size="15" font-weight="700">Huzaifa Abdul Rehman</text>
+    <text x="88" y="309" fill="#1b1a17" font-size="14.5" font-weight="700">Huzaifa Abdul</text>
+    <text x="88" y="326" fill="#1b1a17" font-size="14.5" font-weight="700">Rehman</text>
 
-    <rect x="362" y="264" width="278" height="62" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
+    <rect x="362" y="264" width="278" height="66" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
     <text x="378" y="286" fill="#5c574d" font-size="10.5" letter-spacing="0.6">ROLE</text>
-    <text x="378" y="308" fill="#1b1a17" font-size="15" font-weight="700">Full-Stack AI Engineer</text>
+    <text x="378" y="309" fill="#1b1a17" font-size="14.5" font-weight="700">Full-Stack AI</text>
+    <text x="378" y="326" fill="#1b1a17" font-size="14.5" font-weight="700">Engineer</text>
 
-    <rect x="652" y="264" width="278" height="62" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
+    <rect x="652" y="264" width="278" height="66" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
     <text x="668" y="286" fill="#5c574d" font-size="10.5" letter-spacing="0.6">EDUCATION</text>
-    <text x="668" y="308" fill="#1b1a17" font-size="15" font-weight="700">BS CS · FAST NUCES, Karachi</text>
+    <text x="668" y="309" fill="#1b1a17" font-size="14.5" font-weight="700">BS CS · FAST NUCES</text>
+    <text x="668" y="326" fill="#1b1a17" font-size="14.5" font-weight="700">Karachi</text>
 
     <!-- row 2 -->
-    <rect x="72" y="336" width="278" height="62" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
-    <text x="88" y="358" fill="#5c574d" font-size="10.5" letter-spacing="0.6">FOCUS</text>
-    <text x="88" y="380" fill="#1b1a17" font-size="14" font-weight="700">Full-stack products · measurable AI</text>
+    <rect x="72" y="342" width="278" height="66" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
+    <text x="88" y="364" fill="#5c574d" font-size="10.5" letter-spacing="0.6">FOCUS</text>
+    <text x="88" y="387" fill="#1b1a17" font-size="13.5" font-weight="700">Full-stack products</text>
+    <text x="88" y="404" fill="#1b1a17" font-size="13.5" font-weight="700">measurable AI systems</text>
 
-    <rect x="362" y="336" width="278" height="62" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
-    <text x="378" y="358" fill="#5c574d" font-size="10.5" letter-spacing="0.6">OPEN TO</text>
-    <text x="378" y="380" fill="#1b1a17" font-size="14" font-weight="700">Internships · junior full-stack roles</text>
+    <rect x="362" y="342" width="278" height="66" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
+    <text x="378" y="364" fill="#5c574d" font-size="10.5" letter-spacing="0.6">OPEN TO</text>
+    <text x="378" y="387" fill="#1b1a17" font-size="13.5" font-weight="700">Internships · junior</text>
+    <text x="378" y="404" fill="#1b1a17" font-size="13.5" font-weight="700">full-stack roles</text>
 
-    <rect x="652" y="336" width="278" height="62" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
-    <text x="668" y="358" fill="#5c574d" font-size="10.5" letter-spacing="0.6">PRINCIPLE</text>
-    <text x="668" y="380" fill="#1b1a17" font-size="14" font-weight="700">Build, measure, test, iterate</text>
+    <rect x="652" y="342" width="278" height="66" rx="4" fill="#ffffff" stroke="#ddd7c9"/>
+    <text x="668" y="364" fill="#5c574d" font-size="10.5" letter-spacing="0.6">PRINCIPLE</text>
+    <text x="668" y="387" fill="#1b1a17" font-size="13.5" font-weight="700">Build, measure, test,</text>
+    <text x="668" y="404" fill="#1b1a17" font-size="13.5" font-weight="700">iterate</text>
   </g>
 
   <!-- entry 03 -->
-  <text x="72" y="428" fill="#c25a1e" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">03 · STATUS</text>
-  <text x="72" y="459" fill="#5c574d" font-family="Segoe UI, Arial, sans-serif" font-size="16">Currently shipping a tested Playwright migration to Oppia and</text>
-  <text x="72" y="484" fill="#5c574d" font-family="Segoe UI, Arial, sans-serif" font-size="16">exploring internship and junior engineering roles.</text>
+  <text x="72" y="448" fill="#c25a1e" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">03 · STATUS</text>
+  <text x="72" y="479" fill="#5c574d" font-family="Segoe UI, Arial, sans-serif" font-size="16">Currently shipping a tested Playwright migration to Oppia and</text>
+  <text x="72" y="504" fill="#5c574d" font-family="Segoe UI, Arial, sans-serif" font-size="16">exploring internship and junior engineering roles.</text>
 
-  <rect x="72" y="504" width="330" height="34" rx="4" fill="#e2ead9" stroke="#3d6b52"/>
-  <text x="90" y="526" fill="#c25a1e" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700">&gt;</text>
-  <text x="106" y="526" fill="#3d6b52" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">build → measure → test → iterate</text>
+  <rect x="72" y="524" width="330" height="34" rx="4" fill="#e2ead9" stroke="#3d6b52"/>
+  <text x="90" y="546" fill="#c25a1e" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700">&gt;</text>
+  <text x="106" y="546" fill="#3d6b52" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">build → measure → test → iterate</text>
 </svg>
