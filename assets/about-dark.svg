@@ -1,21 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title description">
   <title id="title">About Huzaifa Abdul Rehman</title>
-  <desc id="description">Full-stack development, applied AI, and open-source engineering</desc>
-  <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7c3aed"/>
-      <stop offset="1" stop-color="#22d3ee"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="998" height="248" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
-  <rect x="1" y="1" width="998" height="7" rx="3.5" fill="url(#accent)"/>
-  <text x="50" y="66" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">FROM IDEA TO IMPLEMENTATION</text>
-  <text x="50" y="111" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">I build complete products at the intersection</text>
-  <text x="50" y="149" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">of modern web engineering and practical AI.</text>
-  <rect x="50" y="184" width="239" height="38" rx="19" fill="#26184b" stroke="#7c3aed"/>
-  <rect x="307" y="184" width="180" height="38" rx="19" fill="#102d34" stroke="#22d3ee"/>
-  <rect x="505" y="184" width="215" height="38" rx="19" fill="#122d20" stroke="#3fb950"/>
-  <text x="169.5" y="209" text-anchor="middle" fill="#d8b4fe" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">FULL-STACK PRODUCTS</text>
-  <text x="397" y="209" text-anchor="middle" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">APPLIED AI</text>
-  <text x="612.5" y="209" text-anchor="middle" fill="#7ee787" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">OPEN SOURCE</text>
+  <desc id="description">Build log: who I am, my profile, and current status</desc>
+
+  <rect x="1" y="1" width="998" height="558" rx="8" fill="#0b0d10" stroke="#2a2d31" stroke-width="2"/>
+
+  <!-- log header bar -->
+  <rect x="1" y="1" width="998" height="46" rx="8" fill="#0f1216"/>
+  <rect x="1" y="39" width="998" height="8" fill="#0f1216"/>
+  <line x1="1" y1="47" x2="999" y2="47" stroke="#2a2d31" stroke-width="1"/>
+  <circle cx="34" cy="24" r="4" fill="#6fcf9e"/>
+  <circle cx="34" cy="24" r="9" fill="none" stroke="#12261c" stroke-width="6"/>
+  <text x="54" y="29" fill="#9a958a" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="0.3">about.md — huzaifa-abdul-rehman/profile</text>
+
+  <!-- rail -->
+  <line x1="46" y1="100" x2="46" y2="228" stroke="#2a2d31" stroke-width="1"/>
+  <line x1="46" y1="248" x2="46" y2="410" stroke="#2a2d31" stroke-width="1"/>
+  <line x1="46" y1="430" x2="46" y2="505" stroke="#2a2d31" stroke-width="1"/>
+  <circle cx="46" cy="94" r="5" fill="#ff8a3d"/>
+  <circle cx="46" cy="242" r="5" fill="#ff8a3d"/>
+  <circle cx="46" cy="424" r="5" fill="#ff8a3d"/>
+
+  <g font-family="Consolas, 'Courier New', monospace">
+    <!-- entry 01 -->
+    <text x="72" y="98" fill="#ff8a3d" font-size="12" font-weight="700" letter-spacing="0.8">01 · WHO</text>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#e8e6e1">
+    <text x="72" y="132">BS Computer Science student building</text>
+    <text x="72" y="166"><tspan fill="#ff8a3d">end-to-end products</tspan><tspan> that pair modern</tspan></text>
+    <text x="72" y="200">web apps with practical machine-learning systems.</text>
+  </g>
+
+  <!-- entry 02 -->
+  <text x="72" y="246" fill="#ff8a3d" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">02 · PROFILE</text>
+
+  <g font-family="Consolas, 'Courier New', monospace">
+    <!-- row 1 -->
+    <rect x="72" y="264" width="278" height="62" rx="4" fill="#14171b" stroke="#2a2d31"/>
+    <text x="88" y="286" fill="#9a958a" font-size="10.5" letter-spacing="0.6">NAME</text>
+    <text x="88" y="308" fill="#e8e6e1" font-size="15" font-weight="700">Huzaifa Abdul Rehman</text>
+
+    <rect x="362" y="264" width="278" height="62" rx="4" fill="#14171b" stroke="#2a2d31"/>
+    <text x="378" y="286" fill="#9a958a" font-size="10.5" letter-spacing="0.6">ROLE</text>
+    <text x="378" y="308" fill="#e8e6e1" font-size="15" font-weight="700">Full-Stack AI Engineer</text>
+
+    <rect x="652" y="264" width="278" height="62" rx="4" fill="#14171b" stroke="#2a2d31"/>
+    <text x="668" y="286" fill="#9a958a" font-size="10.5" letter-spacing="0.6">EDUCATION</text>
+    <text x="668" y="308" fill="#e8e6e1" font-size="15" font-weight="700">BS CS · FAST NUCES, Karachi</text>
+
+    <!-- row 2 -->
+    <rect x="72" y="336" width="278" height="62" rx="4" fill="#14171b" stroke="#2a2d31"/>
+    <text x="88" y="358" fill="#9a958a" font-size="10.5" letter-spacing="0.6">FOCUS</text>
+    <text x="88" y="380" fill="#e8e6e1" font-size="14" font-weight="700">Full-stack products · measurable AI</text>
+
+    <rect x="362" y="336" width="278" height="62" rx="4" fill="#14171b" stroke="#2a2d31"/>
+    <text x="378" y="358" fill="#9a958a" font-size="10.5" letter-spacing="0.6">OPEN TO</text>
+    <text x="378" y="380" fill="#e8e6e1" font-size="14" font-weight="700">Internships · junior full-stack roles</text>
+
+    <rect x="652" y="336" width="278" height="62" rx="4" fill="#14171b" stroke="#2a2d31"/>
+    <text x="668" y="358" fill="#9a958a" font-size="10.5" letter-spacing="0.6">PRINCIPLE</text>
+    <text x="668" y="380" fill="#e8e6e1" font-size="14" font-weight="700">Build, measure, test, iterate</text>
+  </g>
+
+  <!-- entry 03 -->
+  <text x="72" y="428" fill="#ff8a3d" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">03 · STATUS</text>
+  <text x="72" y="459" fill="#9a958a" font-family="Segoe UI, Arial, sans-serif" font-size="16">Currently shipping a tested Playwright migration to Oppia and</text>
+  <text x="72" y="484" fill="#9a958a" font-family="Segoe UI, Arial, sans-serif" font-size="16">exploring internship and junior engineering roles.</text>
+
+  <rect x="72" y="504" width="330" height="34" rx="4" fill="#12261c" stroke="#6fcf9e"/>
+  <text x="90" y="526" fill="#ff8a3d" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700">&gt;</text>
+  <text x="106" y="526" fill="#6fcf9e" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">build → measure → test → iterate</text>
 </svg>
