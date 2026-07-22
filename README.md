@@ -90,10 +90,12 @@ I migrated an **Oppia** community-library acceptance test from Puppeteer to Play
   <img width="100%" src="https://raw.githubusercontent.com/HuzaifaAbdulRehman/HuzaifaAbdulRehman/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" />
 </picture>
 
----
+<a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/integrated-footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/integrated-footer-light.svg" />
+    <img width="100%" src="assets/integrated-footer-light.svg" alt="Connect with Huzaifa Abdul Rehman on LinkedIn" />
+  </picture>
+</a>
 
-<p align="center">
-  <strong>Open to internships, junior engineering roles, and applied-AI collaborations.</strong><br><br>
-  <a href="https://github.com/HuzaifaAbdulRehman?tab=repositories">Explore my repositories</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/">Connect on LinkedIn</a>
-</p>
+<p align="center"><a href="https://github.com/HuzaifaAbdulRehman?tab=repositories">Explore my repositories</a></p>
