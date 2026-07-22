@@ -14,9 +14,9 @@
 ## About Me
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/integrated-about-v4-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/integrated-about-v4-light.svg" />
-  <img width="100%" src="assets/integrated-about-v4-light.svg" alt="Building complete products from idea to measured, reliable systems" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/integrated-about-v5-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/integrated-about-v5-light.svg" />
+  <img width="100%" src="assets/integrated-about-v5-light.svg" alt="Building complete products from idea to measured, reliable systems" />
 </picture>
 
 ## Technologies
