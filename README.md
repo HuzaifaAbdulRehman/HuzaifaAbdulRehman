@@ -31,7 +31,7 @@ I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from
 
 ## Selected Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <a href="https://github.com/HuzaifaAbdulRehman/Electrolux-EMS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-electrolux-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-electrolux-light.svg" /><img width="100%" src="assets/project-electrolux-light.svg" alt="Open Electrolux EMS repository" /></picture></a>
