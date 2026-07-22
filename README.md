@@ -1,24 +1,15 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=195&amp;color=0:0d1117,35:7C3AED,100:22D3EE&amp;text=Huzaifa%20Abdul%20Rehman&amp;fontColor=ffffff&amp;fontSize=48&amp;fontAlignY=35&amp;desc=Full-Stack%20AI%20Engineer&amp;descSize=21&amp;descAlignY=56&amp;animation=fadeIn" alt="Huzaifa Abdul Rehman - Full-Stack AI Engineer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img width="100%" src="assets/header-light.svg" alt="Huzaifa Abdul Rehman - Full-Stack AI Engineer" />
+</picture>
 
 <p align="center">
-  <a href="https://github.com/HuzaifaAbdulRehman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+full-stack+products;Applying+AI+to+real+problems;Contributing+tested+open-source+code" alt="Building full-stack products, applying AI to real problems, and contributing tested open-source code" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin-white&amp;logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://www.nu.edu.pk/">
-    <img src="https://img.shields.io/badge/FAST_NUCES-BS_Computer_Science-7C3AED?style=flat-square" alt="BS Computer Science at FAST NUCES" />
-  </a>
-  <img src="https://img.shields.io/badge/Karachi-Pakistan-22D3EE?style=flat-square&amp;labelColor=0d1117" alt="Karachi, Pakistan" />
-  <a href="https://github.com/oppia/oppia/issues/26819">
-    <img src="https://img.shields.io/badge/Oppia-Contribution_in_Review-238636?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Oppia contribution in review" />
-  </a>
+  <a href="https://www.nu.edu.pk/">FAST NUCES</a> ·
+  <a href="https://github.com/oppia/oppia/issues/26819">Oppia contribution</a> ·
+  <a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/">LinkedIn</a>
 </p>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
@@ -95,14 +86,14 @@ I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;include_all_commits=true&amp;rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;include_all_commits=true&amp;rank_icon=github" />
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;include_all_commits=true&amp;rank_icon=github" alt="GitHub stats for HuzaifaAbdulRehman" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0D10&amp;title_color=FF8A3D&amp;icon_color=6FCF9E&amp;text_color=E8E6E1&amp;include_all_commits=true&amp;rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F2EFE9&amp;title_color=C25A1E&amp;icon_color=3D6B52&amp;text_color=1B1A17&amp;include_all_commits=true&amp;rank_icon=github" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0D10&amp;title_color=FF8A3D&amp;icon_color=6FCF9E&amp;text_color=E8E6E1&amp;include_all_commits=true&amp;rank_icon=github" alt="GitHub stats for HuzaifaAbdulRehman" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;langs_count=8" />
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;langs_count=8" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B0D10&amp;title_color=FF8A3D&amp;text_color=E8E6E1&amp;langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=F2EFE9&amp;title_color=C25A1E&amp;text_color=1B1A17&amp;langs_count=8" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B0D10&amp;title_color=FF8A3D&amp;text_color=E8E6E1&amp;langs_count=8" alt="Most used languages" />
   </picture>
 </p>
 
@@ -116,10 +107,13 @@ I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+  <img width="100%" src="assets/footer-light.svg" alt="Open to internships, junior engineering roles, and applied-AI collaborations" />
+</picture>
+
 <p align="center">
-  <strong>Open to internships, junior engineering roles, and applied-AI collaborations.</strong><br />
   <a href="https://github.com/HuzaifaAbdulRehman?tab=repositories">Explore my repositories</a> ·
   <a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/">Connect on LinkedIn</a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;color=0:0d1117,35:7C3AED,100:22D3EE&amp;section=footer" alt="" />

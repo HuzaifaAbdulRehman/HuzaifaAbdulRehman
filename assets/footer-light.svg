@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title description">
+  <title id="title">Session end</title>
+  <desc id="description">Open to internships, junior engineering roles, and applied-AI collaborations</desc>
+
+  <rect x="1" y="1" width="998" height="148" rx="8" fill="#f2efe9" stroke="#ddd7c9" stroke-width="2"/>
+
+  <rect x="1" y="1" width="998" height="46" rx="8" fill="#ffffff"/>
+  <rect x="1" y="39" width="998" height="8" fill="#ffffff"/>
+  <line x1="1" y1="47" x2="999" y2="47" stroke="#ddd7c9" stroke-width="1"/>
+  <circle cx="34" cy="24" r="4" fill="#3d6b52"/>
+  <circle cx="34" cy="24" r="9" fill="none" stroke="#e2ead9" stroke-width="6"/>
+  <text x="54" y="29" fill="#5c574d" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="0.3">~/profile — session end</text>
+
+  <g font-family="Consolas, 'Courier New', monospace" text-anchor="middle">
+    <text x="500" y="92" fill="#5c574d" font-size="15">$ echo &quot;thanks for reading&quot;</text>
+    <text x="500" y="123" fill="#1b1a17" font-size="15.5" font-weight="700">Open to internships, junior engineering roles, and applied-AI collaborations.</text>
+  </g>
+</svg>

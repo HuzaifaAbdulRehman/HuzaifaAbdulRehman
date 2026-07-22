@@ -1,19 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title description">
   <title id="title">Technology toolkit</title>
   <desc id="description">Web, artificial intelligence, data, and engineering technologies</desc>
-  <defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#0891b2"/></linearGradient></defs>
-  <rect x="1" y="1" width="998" height="308" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-  <rect x="1" y="1" width="998" height="7" rx="3.5" fill="url(#accent)"/>
-  <text x="48" y="57" fill="#1f2328" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">Technology toolkit</text>
-  <text x="48" y="86" fill="#636c76" font-family="Segoe UI, Arial, sans-serif" font-size="16">Tools I use to move from product interface to tested implementation.</text>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="48" y="136" fill="#6d28d9" font-size="15" font-weight="700">WEB</text>
-    <text x="48" y="169" fill="#1f2328" font-size="18">React  |  Next.js  |  TypeScript  |  Tailwind CSS</text>
-    <text x="48" y="218" fill="#0e7490" font-size="15" font-weight="700">AI AND COMPUTER VISION</text>
-    <text x="48" y="251" fill="#1f2328" font-size="18">Python  |  TensorFlow  |  OpenCV  |  MediaPipe  |  XGBoost</text>
-    <text x="570" y="136" fill="#1a7f37" font-size="15" font-weight="700">DATA AND ENGINEERING</text>
-    <text x="570" y="169" fill="#1f2328" font-size="18">MySQL  |  Drizzle ORM  |  Git  |  GitHub Actions</text>
-    <text x="570" y="218" fill="#9a6700" font-size="15" font-weight="700">ALSO WORKED WITH</text>
-    <text x="570" y="251" fill="#1f2328" font-size="18">NetworkX  |  Streamlit  |  C  |  C++</text>
+
+  <rect x="1" y="1" width="998" height="328" rx="8" fill="#f2efe9" stroke="#ddd7c9" stroke-width="2"/>
+
+  <rect x="1" y="1" width="998" height="46" rx="8" fill="#ffffff"/>
+  <rect x="1" y="39" width="998" height="8" fill="#ffffff"/>
+  <line x1="1" y1="47" x2="999" y2="47" stroke="#ddd7c9" stroke-width="1"/>
+  <circle cx="34" cy="24" r="4" fill="#3d6b52"/>
+  <circle cx="34" cy="24" r="9" fill="none" stroke="#e2ead9" stroke-width="6"/>
+  <text x="54" y="29" fill="#5c574d" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="0.3">stack.md — huzaifa-abdul-rehman/profile</text>
+
+  <text x="48" y="93" fill="#1b1a17" font-family="Consolas, 'Courier New', monospace" font-size="21" font-weight="700">Technology toolkit</text>
+  <text x="48" y="118" fill="#5c574d" font-family="Segoe UI, Arial, sans-serif" font-size="14.5">Tools I use to move from product interface to tested implementation.</text>
+
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="48" y="156" fill="#c25a1e" font-size="11.5" font-weight="700" letter-spacing="0.6">WEB</text>
+    <g font-size="13.5">
+      <rect x="48" y="166" width="58" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="60" y="183" fill="#1b1a17">React</text>
+      <rect x="112" y="166" width="72" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="124" y="183" fill="#1b1a17">Next.js</text>
+      <rect x="190" y="166" width="90" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="202" y="183" fill="#1b1a17">TypeScript</text>
+      <rect x="286" y="166" width="104" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="298" y="183" fill="#1b1a17">Tailwind CSS</text>
+    </g>
+
+    <text x="48" y="228" fill="#c25a1e" font-size="11.5" font-weight="700" letter-spacing="0.6">AI &amp; COMPUTER VISION</text>
+    <g font-size="13.5">
+      <rect x="48" y="238" width="70" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="60" y="255" fill="#1b1a17">Python</text>
+      <rect x="124" y="238" width="98" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="136" y="255" fill="#1b1a17">TensorFlow</text>
+      <rect x="228" y="238" width="80" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="240" y="255" fill="#1b1a17">OpenCV</text>
+      <rect x="314" y="238" width="94" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="326" y="255" fill="#1b1a17">MediaPipe</text>
+      <rect x="414" y="238" width="86" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="426" y="255" fill="#1b1a17">XGBoost</text>
+    </g>
+
+    <text x="530" y="156" fill="#3d6b52" font-size="11.5" font-weight="700" letter-spacing="0.6">DATA &amp; ENGINEERING</text>
+    <g font-size="13.5">
+      <rect x="530" y="166" width="72" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="542" y="183" fill="#1b1a17">MySQL</text>
+      <rect x="608" y="166" width="104" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="620" y="183" fill="#1b1a17">Drizzle ORM</text>
+      <rect x="718" y="166" width="52" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="730" y="183" fill="#1b1a17">Git</text>
+      <rect x="776" y="166" width="130" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="788" y="183" fill="#1b1a17">GitHub Actions</text>
+    </g>
+
+    <text x="530" y="228" fill="#3d6b52" font-size="11.5" font-weight="700" letter-spacing="0.6">ALSO WORKED WITH</text>
+    <g font-size="13.5">
+      <rect x="530" y="238" width="92" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="542" y="255" fill="#1b1a17">NetworkX</text>
+      <rect x="628" y="238" width="90" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="640" y="255" fill="#1b1a17">Streamlit</text>
+      <rect x="724" y="238" width="46" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="736" y="255" fill="#1b1a17">C</text>
+      <rect x="776" y="238" width="58" height="26" rx="4" fill="#ffffff" stroke="#ddd7c9"/><text x="788" y="255" fill="#1b1a17">C++</text>
+    </g>
   </g>
 </svg>
