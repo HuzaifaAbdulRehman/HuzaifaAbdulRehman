@@ -25,16 +25,31 @@
 
 ## About Me
 
-I am a BS Computer Science student building **end-to-end products** that combine modern web applications with practical machine-learning systems.
+<p align="center">
+  <strong>Building complete products where modern web engineering meets practical AI.</strong>
+</p>
 
-```yaml
-name: Huzaifa Abdul Rehman
-role: Full-Stack AI Engineer
-education: BS Computer Science @ FAST NUCES, Karachi
-focus: full-stack products and measurable AI systems
-open_to: [internships, junior full-stack roles, applied-AI projects]
-principle: build, measure, test, and iterate
-```
+I am a BS Computer Science student at **FAST NUCES, Karachi**. I enjoy taking ideas from interface to implementation, combining responsive full-stack applications with machine-learning systems that can be tested, measured, and improved.
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>Focus</strong><br />
+      Full-stack products<br />
+      Applied AI systems
+    </td>
+    <td width="33%" align="center">
+      <strong>Approach</strong><br />
+      Build, measure,<br />
+      test, and iterate
+    </td>
+    <td width="33%" align="center">
+      <strong>Open To</strong><br />
+      Internships and junior<br />
+      engineering roles
+    </td>
+  </tr>
+</table>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
