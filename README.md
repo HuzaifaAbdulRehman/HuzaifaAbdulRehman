@@ -5,16 +5,31 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.nu.edu.pk/">FAST NUCES</a> &nbsp;·&nbsp;
-  <a href="https://github.com/oppia/oppia/issues/26819">Open source</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&amp;logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.nu.edu.pk/"><img src="https://img.shields.io/badge/FAST_NUCES-BS_Computer_Science-7C3AED?style=flat-square" alt="FAST NUCES BS Computer Science" /></a>
+  <img src="https://img.shields.io/badge/Karachi-Pakistan-007C83?style=flat-square" alt="Karachi, Pakistan" />
+  <a href="https://github.com/oppia/oppia/issues/26819"><img src="https://img.shields.io/badge/Oppia-Contribution_in_Review-34720D?style=flat-square&amp;logo=github" alt="Oppia contribution in review" /></a>
 </p>
 
-I am a BS Computer Science student at **FAST NUCES, Karachi**. I take products from interface to implementation, combining responsive full-stack applications with practical machine-learning systems that can be tested, measured, and improved.
+## About Me
 
-> **Current focus:** a tested Playwright migration for Oppia, alongside internship and junior engineering opportunities.
+> ### Building complete products at the intersection of modern web engineering and practical AI.
 
-## Capability Matrix
+I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from interface to implementation. I build responsive full-stack applications and measurable machine-learning systems with an emphasis on reliable testing.
+
+**Now:** contributing a tested Playwright migration to Oppia and exploring internship and junior engineering opportunities.
+
+## Technologies
+
+<p align="center"><strong>Web and product engineering</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mysql" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, and MySQL" />
+</p>
+<p align="center"><strong>AI, data, and engineering</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,github" alt="Python, TensorFlow, OpenCV, Git, and GitHub" />
+</p>
+<p align="center"><em>Also worked with Drizzle ORM, MediaPipe, XGBoost, Streamlit, NetworkX, OSMnx, C, and C++.</em></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/console-capabilities-dark.svg" />
@@ -22,22 +37,38 @@ I am a BS Computer Science student at **FAST NUCES, Karachi**. I take products f
   <img width="100%" src="assets/console-capabilities-light.svg" alt="Product engineering, systems and data, and applied AI capabilities" />
 </picture>
 
-## Selected Engineering
+## Selected Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/console-projects-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/console-projects-light.svg" />
-  <img width="100%" src="assets/console-projects-light.svg" alt="Four selected full-stack and applied AI projects" />
-</picture>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HuzaifaAbdulRehman/driver-drowsiness-detection">Driver Drowsiness Detection</a></h3>
+      <p>Real-time safety system combining a fine-tuned <strong>MobileNetV2</strong> eye-state classifier with MediaPipe facial landmarks. Achieved <strong>97.30% reported accuracy</strong> on the MRL Eye dataset.</p>
+      <p><code>Python</code> <code>TensorFlow</code> <code>MediaPipe</code> <code>OpenCV</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HuzaifaAbdulRehman/Electrolux-EMS">Electrolux EMS</a></h3>
+      <p>Electricity distribution management for customer billing, power usage, authentication, and service requests.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>MySQL</code> <code>Drizzle ORM</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HuzaifaAbdulRehman/fast-academic-hub">FAST Academic Hub</a></h3>
+      <p>Offline-first attendance planner that calculates attendance in real time and models planned absences as an installable responsive PWA.</p>
+      <p><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>PWA</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HuzaifaAbdulRehman/dijkstra-ml-routing-optimization">Dijkstra + ML Routing</a></h3>
+      <p>Route planning that combines graph search with engineered road features and XGBoost on real OpenStreetMap networks.</p>
+      <p><code>Python</code> <code>NetworkX</code> <code>OSMnx</code> <code>XGBoost</code></p>
+    </td>
+  </tr>
+</table>
 
-| Project | Engineering focus |
-|---|---|
-| [Electrolux EMS](https://github.com/HuzaifaAbdulRehman/Electrolux-EMS) | Next.js, TypeScript, MySQL, Drizzle ORM |
-| [Driver Drowsiness Detection](https://github.com/HuzaifaAbdulRehman/driver-drowsiness-detection) | TensorFlow, MediaPipe, OpenCV |
-| [Dijkstra + ML Routing](https://github.com/HuzaifaAbdulRehman/dijkstra-ml-routing-optimization) | Python, NetworkX, OSMnx, XGBoost |
-| [FAST Academic Hub](https://github.com/HuzaifaAbdulRehman/fast-academic-hub) | React, Vite, Tailwind CSS, PWA |
+## Open Source
 
-## Open Source Proof
+I migrated an **Oppia** community-library acceptance test from Puppeteer to Playwright. The contribution is currently awaiting maintainer review.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/console-proof-dark.svg" />
@@ -73,6 +104,6 @@ I am a BS Computer Science student at **FAST NUCES, Karachi**. I take products f
 
 <p align="center">
   <strong>Open to internships, junior engineering roles, and applied-AI collaborations.</strong><br><br>
-  <a href="https://github.com/HuzaifaAbdulRehman?tab=repositories">Explore repositories</a> &nbsp;·&nbsp;
+  <a href="https://github.com/HuzaifaAbdulRehman?tab=repositories">Explore my repositories</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/">Connect on LinkedIn</a>
 </p>
