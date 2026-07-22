@@ -81,18 +81,24 @@ I migrated an **Oppia** community-library acceptance test from Puppeteer to Play
 
 ## GitHub Activity
 
-<p align="center">
+<table>
+  <tr>
+  <td width="58%" align="center" valign="middle">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=071014&amp;title_color=22D3EE&amp;icon_color=A3E635&amp;text_color=F8FAFC&amp;include_all_commits=true&amp;rank_icon=github" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F6FBFC&amp;title_color=007C83&amp;icon_color=34720D&amp;text_color=11262B&amp;include_all_commits=true&amp;rank_icon=github" />
-    <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F6FBFC&amp;title_color=007C83&amp;icon_color=34720D&amp;text_color=11262B&amp;include_all_commits=true&amp;rank_icon=github" alt="GitHub stats for HuzaifaAbdulRehman" />
+    <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F6FBFC&amp;title_color=007C83&amp;icon_color=34720D&amp;text_color=11262B&amp;include_all_commits=true&amp;rank_icon=github" alt="GitHub stats for HuzaifaAbdulRehman" />
   </picture>
+  </td>
+  <td width="42%" align="center" valign="middle">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=071014&amp;title_color=22D3EE&amp;text_color=F8FAFC&amp;langs_count=8" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=F6FBFC&amp;title_color=007C83&amp;text_color=11262B&amp;langs_count=8" />
-    <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=F6FBFC&amp;title_color=007C83&amp;text_color=11262B&amp;langs_count=8" alt="Most used languages" />
+    <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=F6FBFC&amp;title_color=007C83&amp;text_color=11262B&amp;langs_count=8" alt="Most used languages" />
   </picture>
-</p>
+  </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuzaifaAbdulRehman/HuzaifaAbdulRehman/output/github-contribution-grid-snake-dark.svg" />
