@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title description">
+  <title id="title">About Huzaifa Abdul Rehman</title>
+  <desc id="description">Full-stack development, applied AI, and open-source engineering</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="248" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="7" rx="3.5" fill="url(#accent)"/>
+  <text x="50" y="66" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">FROM IDEA TO IMPLEMENTATION</text>
+  <text x="50" y="111" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">I build complete products at the intersection</text>
+  <text x="50" y="149" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">of modern web engineering and practical AI.</text>
+  <rect x="50" y="184" width="239" height="38" rx="19" fill="#26184b" stroke="#7c3aed"/>
+  <rect x="307" y="184" width="180" height="38" rx="19" fill="#102d34" stroke="#22d3ee"/>
+  <rect x="505" y="184" width="215" height="38" rx="19" fill="#122d20" stroke="#3fb950"/>
+  <text x="169.5" y="209" text-anchor="middle" fill="#d8b4fe" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">FULL-STACK PRODUCTS</text>
+  <text x="397" y="209" text-anchor="middle" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">APPLIED AI</text>
+  <text x="612.5" y="209" text-anchor="middle" fill="#7ee787" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">OPEN SOURCE</text>
+</svg>
