@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-labelledby="t d">
+<title id="t">Huzaifa Abdul Rehman, Full-Stack AI Engineer</title><desc id="d">Profile identity and full-stack AI engineering pipeline</desc>
+<rect width="1000" height="520" fill="#f6fbfc"/><rect x="1" y="1" width="998" height="518" rx="5" fill="none" stroke="#c5dadd" stroke-width="2"/>
+<g font-family="Consolas,'Courier New',monospace">
+<text x="52" y="55" fill="#007c83" font-size="15" font-weight="700">SYSTEM ID / HZR-01</text><text x="948" y="55" text-anchor="end" fill="#52666b" font-size="13">KARACHI Â· PK</text>
+<text x="52" y="151" fill="#11262b" font-size="62" font-weight="700">HUZAIFA ABDUL REHMAN</text><text x="52" y="202" fill="#34720d" font-size="24" font-weight="700">FULL-STACK AI ENGINEER</text>
+<line x1="52" y1="234" x2="52" y2="310" stroke="#007c83" stroke-width="4"/><text x="76" y="262" fill="#52666b" font-size="19">Building complete products across interface, backend,</text><text x="76" y="292" fill="#52666b" font-size="19">data, and practical machine intelligence.</text>
+<g font-size="15"><rect x="52" y="350" width="282" height="116" fill="#ffffff" stroke="#c5dadd"/><text x="74" y="382" fill="#007c83" font-weight="700">01 / INTERFACE</text><text x="74" y="414" fill="#11262b">React Â· Next.js Â· TypeScript</text><text x="74" y="440" fill="#52666b">Responsive product systems</text>
+<rect x="359" y="350" width="282" height="116" fill="#ffffff" stroke="#c5dadd"/><text x="381" y="382" fill="#007c83" font-weight="700">02 / BACKEND</text><text x="381" y="414" fill="#11262b">Python Â· APIs Â· MySQL</text><text x="381" y="440" fill="#52666b">Reliable services and data</text>
+<rect x="666" y="350" width="282" height="116" fill="#ffffff" stroke="#c5dadd"/><text x="688" y="382" fill="#007c83" font-weight="700">03 / INTELLIGENCE</text><text x="688" y="414" fill="#11262b">TensorFlow Â· XGBoost Â· CV</text><text x="688" y="440" fill="#52666b">Measured applied AI</text></g></g>
+</svg>
+
