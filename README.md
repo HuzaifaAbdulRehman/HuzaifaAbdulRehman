@@ -13,28 +13,20 @@
 
 ## About Me
 
-> ### Building complete products at the intersection of modern web engineering and practical AI.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/integrated-about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/integrated-about-light.svg" />
+  <img width="100%" src="assets/integrated-about-light.svg" alt="Building complete products from idea to measured, reliable systems" />
+</picture>
 
 I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from interface to implementation. I build responsive full-stack applications and measurable machine-learning systems with an emphasis on reliable testing.
 
-**Now:** contributing a tested Playwright migration to Oppia and exploring internship and junior engineering opportunities.
-
 ## Technologies
 
-<p align="center"><strong>Web and product engineering</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mysql" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, and MySQL" />
-</p>
-<p align="center"><strong>AI, data, and engineering</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,github" alt="Python, TensorFlow, OpenCV, Git, and GitHub" />
-</p>
-<p align="center"><em>Also worked with Drizzle ORM, MediaPipe, XGBoost, Streamlit, NetworkX, OSMnx, C, and C++.</em></p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/console-capabilities-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/console-capabilities-light.svg" />
-  <img width="100%" src="assets/console-capabilities-light.svg" alt="Product engineering, systems and data, and applied AI capabilities" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/integrated-tech-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/integrated-tech-light.svg" />
+  <img width="100%" src="assets/integrated-tech-light.svg" alt="Connected toolchain across interface, application, data, intelligence, and verification" />
 </picture>
 
 ## Selected Projects
