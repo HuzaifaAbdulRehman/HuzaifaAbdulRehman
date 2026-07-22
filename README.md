@@ -19,8 +19,6 @@
   <img width="100%" src="assets/integrated-about-light.svg" alt="Building complete products from idea to measured, reliable systems" />
 </picture>
 
-I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from interface to implementation. I build responsive full-stack applications and measurable machine-learning systems with an emphasis on reliable testing.
-
 ## Technologies
 
 <picture>
