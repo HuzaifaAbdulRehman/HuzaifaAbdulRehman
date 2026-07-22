@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title description">
+  <title id="title">Huzaifa Abdul Rehman</title>
+  <desc id="description">Full-Stack AI Engineer focused on web products, applied AI, and open source</desc>
+  <rect width="1200" height="230" fill="#0d1117"/>
+  <rect x="64" y="48" width="5" height="134" rx="2.5" fill="#58a6ff"/>
+  <text x="96" y="104" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">Huzaifa Abdul Rehman</text>
+  <text x="96" y="143" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">Full-Stack AI Engineer</text>
+  <text x="96" y="176" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="18">Web products  |  Applied AI  |  Open source</text>
+</svg>
