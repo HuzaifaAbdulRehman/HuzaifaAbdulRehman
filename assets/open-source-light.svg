@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 225" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="title description">
   <title id="title">Oppia contribution in review</title>
   <desc id="description">A tested migration from Puppeteer to Playwright with 200 successful stress-test runs</desc>
 
-  <rect x="1" y="1" width="998" height="223" rx="8" fill="#f2efe9" stroke="#ddd7c9" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="298" rx="8" fill="#f2efe9" stroke="#ddd7c9" stroke-width="2"/>
 
   <rect x="1" y="1" width="998" height="46" rx="8" fill="#ffffff"/>
   <rect x="1" y="39" width="998" height="8" fill="#ffffff"/>
   <line x1="1" y1="47" x2="999" y2="47" stroke="#ddd7c9" stroke-width="1"/>
   <circle cx="34" cy="24" r="4" fill="#3d6b52"/>
   <circle cx="34" cy="24" r="9" fill="none" stroke="#e2ead9" stroke-width="6"/>
-  <text x="54" y="29" fill="#5c574d" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="0.3">oppia.md — huzaifa-abdul-rehman/profile</text>
+  <text x="54" y="30" fill="#5c574d" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="0.3">oppia.md — huzaifa-abdul-rehman/profile</text>
 
-  <text x="48" y="90" fill="#c25a1e" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">CONTRIBUTION IN REVIEW</text>
-  <text x="48" y="124" fill="#1b1a17" font-family="Consolas, 'Courier New', monospace" font-size="24" font-weight="700">Oppia acceptance testing</text>
-  <text x="48" y="153" fill="#5c574d" font-family="Segoe UI, Arial, sans-serif" font-size="15.5">Migrating a community-library test from Puppeteer to Playwright.</text>
+  <text x="48" y="105" fill="#c25a1e" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" letter-spacing="0.8">CONTRIBUTION IN REVIEW</text>
+  <text x="48" y="153" fill="#1b1a17" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="700">Oppia acceptance testing</text>
+  <text x="48" y="194" fill="#5c574d" font-family="Segoe UI, Arial, sans-serif" font-size="20">Migrating a community-library test from Puppeteer to Playwright.</text>
 
-  <rect x="48" y="172" width="271" height="32" rx="4" fill="#e2ead9" stroke="#3d6b52"/>
-  <text x="183.5" y="193" text-anchor="middle" fill="#3d6b52" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">200 / 200 STRESS RUNS PASSED</text>
+  <rect x="48" y="224" width="340" height="46" rx="4" fill="#e2ead9" stroke="#3d6b52"/>
+  <text x="218" y="254" text-anchor="middle" fill="#3d6b52" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700">200 / 200 STRESS RUNS PASSED</text>
 </svg>

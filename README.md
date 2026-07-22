@@ -86,12 +86,12 @@ I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0D10&amp;title_color=FF8A3D&amp;icon_color=6FCF9E&amp;text_color=E8E6E1&amp;include_all_commits=true&amp;rank_icon=github" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F2EFE9&amp;title_color=C25A1E&amp;icon_color=3D6B52&amp;text_color=1B1A17&amp;include_all_commits=true&amp;rank_icon=github" />
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0D10&amp;title_color=FF8A3D&amp;icon_color=6FCF9E&amp;text_color=E8E6E1&amp;include_all_commits=true&amp;rank_icon=github" alt="GitHub stats for HuzaifaAbdulRehman" />
+    <img height="210" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0D10&amp;title_color=FF8A3D&amp;icon_color=6FCF9E&amp;text_color=E8E6E1&amp;include_all_commits=true&amp;rank_icon=github" alt="GitHub stats for HuzaifaAbdulRehman" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B0D10&amp;title_color=FF8A3D&amp;text_color=E8E6E1&amp;langs_count=8" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=F2EFE9&amp;title_color=C25A1E&amp;text_color=1B1A17&amp;langs_count=8" />
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B0D10&amp;title_color=FF8A3D&amp;text_color=E8E6E1&amp;langs_count=8" alt="Most used languages" />
+    <img height="210" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B0D10&amp;title_color=FF8A3D&amp;text_color=E8E6E1&amp;langs_count=8" alt="Most used languages" />
   </picture>
 </p>
 
