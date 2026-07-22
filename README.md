@@ -31,13 +31,24 @@ I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from
 
 ## Selected Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/integrated-projects-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/integrated-projects-light.svg" />
-  <img width="100%" src="assets/integrated-projects-light.svg" alt="Four selected full-stack and applied AI projects" />
-</picture>
-
-**Repositories:** [Electrolux EMS](https://github.com/HuzaifaAbdulRehman/Electrolux-EMS) · [Driver Drowsiness Detection](https://github.com/HuzaifaAbdulRehman/driver-drowsiness-detection) · [Dijkstra + ML Routing](https://github.com/HuzaifaAbdulRehman/dijkstra-ml-routing-optimization) · [FAST Academic Hub](https://github.com/HuzaifaAbdulRehman/fast-academic-hub)
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/HuzaifaAbdulRehman/Electrolux-EMS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-electrolux-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-electrolux-light.svg" /><img width="100%" src="assets/project-electrolux-light.svg" alt="Open Electrolux EMS repository" /></picture></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/HuzaifaAbdulRehman/driver-drowsiness-detection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-drowsiness-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-drowsiness-light.svg" /><img width="100%" src="assets/project-drowsiness-light.svg" alt="Open Driver Drowsiness Detection repository" /></picture></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/HuzaifaAbdulRehman/dijkstra-ml-routing-optimization"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-routing-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-routing-light.svg" /><img width="100%" src="assets/project-routing-light.svg" alt="Open Dijkstra and ML Routing repository" /></picture></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/HuzaifaAbdulRehman/fast-academic-hub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-academic-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-academic-light.svg" /><img width="100%" src="assets/project-academic-light.svg" alt="Open FAST Academic Hub repository" /></picture></a>
+    </td>
+  </tr>
+</table>
 
 ## Open Source
 
