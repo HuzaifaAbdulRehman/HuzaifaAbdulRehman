@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/FAST_NUCES-BS_Computer_Science-7C3AED?style=flat-square" alt="BS Computer Science at FAST NUCES" />
   </a>
   <img src="https://img.shields.io/badge/Karachi-Pakistan-22D3EE?style=flat-square&amp;labelColor=0d1117" alt="Karachi, Pakistan" />
-  <a href="https://github.com/oppia/oppia/issues/26819">
-    <img src="https://img.shields.io/badge/Oppia-Contribution_in_Review-238636?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Oppia contribution in review" />
+  <a href="#open-source">
+    <img src="https://img.shields.io/badge/Open_Source-4_Merged_Contributions-238636?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Four merged open-source contributions" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from interface to implementation. I build responsive applications and practical machine-learning systems with an emphasis on measurable results and reliable testing.
 
-**Now:** contributing a tested Playwright migration to Oppia and exploring internship and junior engineering opportunities.
+**Now:** building on four merged contributions across Oppia, Sentry Native, Microsoft VS Code C/C++, and Elastic EUI while exploring internship and junior engineering opportunities.
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
