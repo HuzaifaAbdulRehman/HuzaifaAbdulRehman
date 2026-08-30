@@ -2,9 +2,7 @@
 
 BS Computer Science at FAST NUCES, Karachi. Graduating 2027.
 
-I spend most of my time fixing real bugs in other people's codebases: systems code in C and Go,
-frontend and tooling in TypeScript. A lot of what I find is Windows-only, because I develop on
-Windows and most contributors do not.
+I contribute fixes to open-source projects and build web and machine-learning applications.
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -19,23 +17,23 @@ Windows and most contributors do not.
 
 | Change | What it fixed | Language |
 | --- | --- | --- |
-| [google/pprof#1023](https://github.com/google/pprof/pull/1023) | `pprof -web` and `weblist` silently opened nothing on Windows when the temp path contained a space, because `start` read the path as a window title | Go |
-| [google/pprof#1025](https://github.com/google/pprof/pull/1025) | `-tools` and `PPROF_TOOLS` were split at the Windows drive letter, so an absolute path was filed under a tool named `C` and never searched | Go |
-| [getsentry/sentry-native#1987](https://github.com/getsentry/sentry-native/pull/1987) | Public interface for supplying a custom HTTP transport client | C |
-| [getsentry/sentry-native#1911](https://github.com/getsentry/sentry-native/pull/1911) | Configurable Windows minidump flags, with crash-context propagation and tests | C |
-| [microsoft/vscode-cpptools#14592](https://github.com/microsoft/vscode-cpptools/pull/14592) | Portable `ps` arguments so the remote process picker works off Linux | TypeScript |
-| [elastic/eui#9841](https://github.com/elastic/eui/pull/9841) | Migrated `EuiFilterSelectItem` to a function component with behaviour preserved | React |
-| [oppia/oppia#26888](https://github.com/oppia/oppia/pull/26888) | Migrated the community library acceptance suite from Puppeteer to Playwright | TypeScript |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) [pprof#1023](https://github.com/google/pprof/pull/1023) | `pprof -web` and `weblist` silently opened nothing on Windows when the temp path contained a space, because `start` read the path as a window title | Go |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) [pprof#1025](https://github.com/google/pprof/pull/1025) | `-tools` and `PPROF_TOOLS` were split at the Windows drive letter, so an absolute path was filed under a tool named `C` and never searched | Go |
+| ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white) [sentry-native#1987](https://github.com/getsentry/sentry-native/pull/1987) | Public interface for supplying a custom HTTP transport client | C |
+| ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white) [sentry-native#1911](https://github.com/getsentry/sentry-native/pull/1911) | Configurable Windows minidump flags, with crash-context propagation and tests | C |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat) [vscode-cpptools#14592](https://github.com/microsoft/vscode-cpptools/pull/14592) | Portable `ps` arguments so the remote process picker works off Linux | TypeScript |
+| ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white) [eui#9841](https://github.com/elastic/eui/pull/9841) | Migrated `EuiFilterSelectItem` to a function component with behaviour preserved | React |
+| ![Oppia](https://img.shields.io/badge/Oppia-00645B?style=flat) [oppia#26888](https://github.com/oppia/oppia/pull/26888) | Migrated the community library acceptance suite from Puppeteer to Playwright | TypeScript |
 
 **In review**
 
 | Change | What it fixes | Language |
 | --- | --- | --- |
-| [facebook/hermes#2160](https://github.com/facebook/hermes/pull/2160) | Single-node AST replacement in hermes-parser was O(n²); made it O(1) | JavaScript |
-| [rust-lang/compiler-builtins#1239](https://github.com/rust-lang/compiler-builtins/pull/1239) | Preserves the NaN sign bit through soft-float addition | Rust |
-| [NVIDIA/warp#1879](https://github.com/NVIDIA/warp/pull/1879) | FEM shape optimization was not moving vertices | Python |
-| [openai/openai-agents-js#1776](https://github.com/openai/openai-agents-js/pull/1776) | Spawns pnpm without the Windows `.cmd` shim | TypeScript |
-| [anthropics/claude-code-action#1755](https://github.com/anthropics/claude-code-action/pull/1755) | Runs git against the checkout instead of the ambient working directory | TypeScript |
+| ![Meta](https://img.shields.io/badge/Meta-0467DF?style=flat&logo=meta&logoColor=white) [hermes#2160](https://github.com/facebook/hermes/pull/2160) | Single-node AST replacement in hermes-parser was O(n²); made it O(1) | JavaScript |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) [compiler-builtins#1239](https://github.com/rust-lang/compiler-builtins/pull/1239) | Preserves the NaN sign bit through soft-float addition | Rust |
+| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white) [warp#1879](https://github.com/NVIDIA/warp/pull/1879) | FEM shape optimization was not moving vertices | Python |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat) [openai-agents-js#1776](https://github.com/openai/openai-agents-js/pull/1776) | Spawns pnpm without the Windows `.cmd` shim | TypeScript |
+| ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white) [claude-code-action#1755](https://github.com/anthropics/claude-code-action/pull/1755) | Runs git against the checkout instead of the ambient working directory | TypeScript |
 
 ## Projects
 
@@ -46,4 +44,4 @@ Windows and most contributors do not.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/) · Open to internships and junior engineering roles.
+[LinkedIn](https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/)
