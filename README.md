@@ -1,129 +1,49 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+# Huzaifa Abdul Rehman
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=195&amp;color=0:0d1117,35:7C3AED,100:22D3EE&amp;text=Huzaifa%20Abdul%20Rehman&amp;fontColor=ffffff&amp;fontSize=48&amp;fontAlignY=35&amp;desc=Full-Stack%20AI%20Engineer&amp;descSize=21&amp;descAlignY=56&amp;animation=fadeIn" alt="Huzaifa Abdul Rehman - Full-Stack AI Engineer" />
+BS Computer Science at FAST NUCES, Karachi. Graduating 2027.
 
-<p align="center">
-  <a href="https://github.com/HuzaifaAbdulRehman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+full-stack+products;Applying+AI+to+real+problems;Contributing+tested+open-source+code" alt="Building full-stack products, applying AI to real problems, and contributing tested open-source code" />
-  </a>
-</p>
+I spend most of my time fixing real bugs in other people's codebases: systems code in C and Go,
+frontend and tooling in TypeScript. A lot of what I find is Windows-only, because I develop on
+Windows and most contributors do not.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin-white&amp;logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://www.nu.edu.pk/">
-    <img src="https://img.shields.io/badge/FAST_NUCES-BS_Computer_Science-7C3AED?style=flat-square" alt="BS Computer Science at FAST NUCES" />
-  </a>
-  <img src="https://img.shields.io/badge/Karachi-Pakistan-22D3EE?style=flat-square&amp;labelColor=0d1117" alt="Karachi, Pakistan" />
-  <a href="#open-source">
-    <img src="https://img.shields.io/badge/Open_Source-4_Merged_Contributions-238636?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Four merged open-source contributions" />
-  </a>
-</p>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+## Open source
 
-## About Me
+**Merged**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg" />
-  <img width="100%" src="assets/about-light.svg" alt="Full-stack development, applied AI, and open-source engineering" />
-</picture>
+| Change | What it fixed | Language |
+| --- | --- | --- |
+| [google/pprof#1023](https://github.com/google/pprof/pull/1023) | `pprof -web` and `weblist` silently opened nothing on Windows when the temp path contained a space, because `start` read the path as a window title | Go |
+| [google/pprof#1025](https://github.com/google/pprof/pull/1025) | `-tools` and `PPROF_TOOLS` were split at the Windows drive letter, so an absolute path was filed under a tool named `C` and never searched | Go |
+| [getsentry/sentry-native#1987](https://github.com/getsentry/sentry-native/pull/1987) | Public interface for supplying a custom HTTP transport client | C |
+| [getsentry/sentry-native#1911](https://github.com/getsentry/sentry-native/pull/1911) | Configurable Windows minidump flags, with crash-context propagation and tests | C |
+| [microsoft/vscode-cpptools#14592](https://github.com/microsoft/vscode-cpptools/pull/14592) | Portable `ps` arguments so the remote process picker works off Linux | TypeScript |
+| [elastic/eui#9841](https://github.com/elastic/eui/pull/9841) | Migrated `EuiFilterSelectItem` to a function component with behaviour preserved | React |
+| [oppia/oppia#26888](https://github.com/oppia/oppia/pull/26888) | Migrated the community library acceptance suite from Puppeteer to Playwright | TypeScript |
 
-I am a BS Computer Science student at **FAST NUCES, Karachi**, taking ideas from interface to implementation. I build responsive applications and practical machine-learning systems with an emphasis on measurable results and reliable testing.
+**In review**
 
-**Now:** building on four merged contributions across Oppia, Sentry Native, Microsoft VS Code C/C++, and Elastic EUI while exploring internship and junior engineering opportunities.
+| Change | What it fixes | Language |
+| --- | --- | --- |
+| [facebook/hermes#2160](https://github.com/facebook/hermes/pull/2160) | Single-node AST replacement in hermes-parser was O(n²); made it O(1) | JavaScript |
+| [rust-lang/compiler-builtins#1239](https://github.com/rust-lang/compiler-builtins/pull/1239) | Preserves the NaN sign bit through soft-float addition | Rust |
+| [NVIDIA/warp#1879](https://github.com/NVIDIA/warp/pull/1879) | FEM shape optimization was not moving vertices | Python |
+| [openai/openai-agents-js#1776](https://github.com/openai/openai-agents-js/pull/1776) | Spawns pnpm without the Windows `.cmd` shim | TypeScript |
+| [anthropics/claude-code-action#1755](https://github.com/anthropics/claude-code-action/pull/1755) | Runs git against the checkout instead of the ambient working directory | TypeScript |
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## Projects
 
-## Technologies
+- **[Driver Drowsiness Detection](https://github.com/HuzaifaAbdulRehman/driver-drowsiness-detection)** — MobileNetV2 eye-state classifier with MediaPipe landmarks, 97.3% on the MRL Eye dataset. Python, TensorFlow, OpenCV.
+- **[Electrolux EMS](https://github.com/HuzaifaAbdulRehman/Electrolux-EMS)** — Electricity distribution management: billing, usage, service requests, database-backed auth. Next.js, TypeScript, MySQL, Drizzle.
+- **[FAST Academic Hub](https://github.com/HuzaifaAbdulRehman/fast-academic-hub)** — Offline-first attendance planner that models planned absences. React, Vite, PWA.
+- **[Dijkstra + ML Routing](https://github.com/HuzaifaAbdulRehman/dijkstra-ml-routing-optimization)** — Route planning combining a custom Dijkstra implementation with XGBoost over OpenStreetMap networks. Python, NetworkX, OSMnx.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/technologies-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/technologies-light.svg" />
-  <img width="100%" src="assets/technologies-light.svg" alt="Technologies for web development, artificial intelligence, data, and engineering" />
-</picture>
+## Contact
 
-<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
-
-## Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HuzaifaAbdulRehman/driver-drowsiness-detection">Driver Drowsiness Detection</a></h3>
-      <p>Real-time safety system combining a fine-tuned <strong>MobileNetV2</strong> eye-state classifier with MediaPipe facial landmarks — <strong>97.30% accuracy</strong> on the MRL Eye dataset.</p>
-      <p><code>Python</code> <code>TensorFlow</code> <code>MediaPipe</code> <code>OpenCV</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HuzaifaAbdulRehman/Electrolux-EMS">Electrolux EMS</a></h3>
-      <p>Electricity distribution management system for customer billing, power usage, and service requests — typed validation and database-backed authentication end to end.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>MySQL</code> <code>Drizzle ORM</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HuzaifaAbdulRehman/fast-academic-hub">FAST Academic Hub</a></h3>
-      <p>Offline-first attendance planner that calculates course attendance in real time and models planned absences. Installable, responsive <strong>PWA</strong>.</p>
-      <p><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>PWA</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HuzaifaAbdulRehman/dijkstra-ml-routing-optimization">Dijkstra + ML Routing</a></h3>
-      <p>Route planning that fuses a custom <strong>Dijkstra</strong> implementation with engineered road features and <strong>XGBoost</strong> on real OpenStreetMap networks.</p>
-      <p><code>Python</code> <code>NetworkX</code> <code>OSMnx</code> <code>XGBoost</code></p>
-    </td>
-  </tr>
-</table>
-
-<!-- ═══════════════════════ OPEN SOURCE ═══════════════════════ -->
-
-## Open Source
-
-I contribute focused fixes and migrations to established projects, pairing implementation changes with regression coverage and maintainer review.
-
-### Merged Contributions
-
-- **[Sentry Native #1911](https://github.com/getsentry/sentry-native/pull/1911)** — Added a public API for custom Windows minidump flags, with native crash-context propagation, documentation, and regression tests. `C`
-- **[Microsoft VS Code C/C++ #14592](https://github.com/microsoft/vscode-cpptools/pull/14592)** — Fixed remote process discovery by constructing portable `ps` arguments and added regression coverage. `TypeScript`
-- **[Elastic EUI #9841](https://github.com/elastic/eui/pull/9841)** — Migrated `EuiFilterSelectItem` to a function component while preserving behavior and test coverage. `React` `TypeScript`
-- **[Oppia #26888](https://github.com/oppia/oppia/pull/26888)** — Migrated a community-library acceptance workflow from Puppeteer to Playwright and validated repeated desktop and mobile runs. `TypeScript`
-
-### In Review
-
-- **[Rust compiler-builtins #1239](https://github.com/rust-lang/compiler-builtins/pull/1239)** — Preserves NaN sign information during software floating-point propagation and adds targeted regression tests. `Rust`
-
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
-
-## GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;include_all_commits=true&amp;rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;include_all_commits=true&amp;rank_icon=github" />
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaAbdulRehman&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;include_all_commits=true&amp;rank_icon=github" alt="GitHub stats for HuzaifaAbdulRehman" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;langs_count=8" />
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaAbdulRehman&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;langs_count=8" alt="Most used languages" />
-  </picture>
-</p>
-
-<!-- ═══════════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuzaifaAbdulRehman/HuzaifaAbdulRehman/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HuzaifaAbdulRehman/HuzaifaAbdulRehman/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/HuzaifaAbdulRehman/HuzaifaAbdulRehman/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" />
-</picture>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-
-<p align="center">
-  <strong>Open to internships, junior engineering roles, and applied-AI collaborations.</strong><br />
-  <a href="https://github.com/HuzaifaAbdulRehman?tab=repositories">Explore my repositories</a> ·
-  <a href="https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/">Connect on LinkedIn</a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;color=0:0d1117,35:7C3AED,100:22D3EE&amp;section=footer" alt="" />
+[LinkedIn](https://www.linkedin.com/in/huzaifa-abdul-rehman-701732289/) · Open to internships and junior engineering roles.
