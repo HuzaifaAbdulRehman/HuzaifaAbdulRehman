@@ -17,6 +17,9 @@ I contribute fixes to open-source projects and build web and machine-learning ap
 
 | Change | What it fixed | Language |
 | --- | --- | --- |
+| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white) [warp#1879](https://github.com/NVIDIA/warp/pull/1879) | Fixed FEM shape optimization using a copied scalar buffer instead of a zero-copy view; added a regression test proving that vertices move | Python |
+| ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black) [candle#3931](https://github.com/huggingface/candle/pull/3931) | Ported four audio decoders to Symphonia 0.6, restoring the feature-gated Whisper and audio example builds | Rust |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) [compiler-builtins#1304](https://github.com/rust-lang/compiler-builtins/pull/1304) | Removed the deleted `abi_unadjusted` feature gate that broke `compiler-builtins` on current nightly | Rust |
 | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) [pprof#1023](https://github.com/google/pprof/pull/1023) | `pprof -web` and `weblist` silently opened nothing on Windows when the temp path contained a space, because `start` read the path as a window title | Go |
 | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) [pprof#1025](https://github.com/google/pprof/pull/1025) | `-tools` and `PPROF_TOOLS` were split at the Windows drive letter, so an absolute path was filed under a tool named `C` and never searched | Go |
 | ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white) [sentry-native#1987](https://github.com/getsentry/sentry-native/pull/1987) | Public interface for supplying a custom HTTP transport client | C |
@@ -31,16 +34,15 @@ I contribute fixes to open-source projects and build web and machine-learning ap
 | --- | --- | --- |
 | ![Meta](https://img.shields.io/badge/Meta-0467DF?style=flat&logo=meta&logoColor=white) [hermes#2160](https://github.com/facebook/hermes/pull/2160) | Single-node AST replacement in hermes-parser was O(n²); made it O(1) | JavaScript |
 | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) [compiler-builtins#1239](https://github.com/rust-lang/compiler-builtins/pull/1239) | Preserves the NaN sign bit through soft-float addition | Rust |
-| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white) [warp#1879](https://github.com/NVIDIA/warp/pull/1879) | FEM shape optimization was not moving vertices | Python |
 | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat) [openai-agents-js#1776](https://github.com/openai/openai-agents-js/pull/1776) | Spawns pnpm without the Windows `.cmd` shim | TypeScript |
 | ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white) [claude-code-action#1755](https://github.com/anthropics/claude-code-action/pull/1755) | Runs git against the checkout instead of the ambient working directory | TypeScript |
 
 ## Projects
 
-- **[Driver Drowsiness Detection](https://github.com/HuzaifaAbdulRehman/driver-drowsiness-detection)** — MobileNetV2 eye-state classifier with MediaPipe landmarks, 97.3% on the MRL Eye dataset. Python, TensorFlow, OpenCV.
-- **[Electrolux EMS](https://github.com/HuzaifaAbdulRehman/Electrolux-EMS)** — Electricity distribution management: billing, usage, service requests, database-backed auth. Next.js, TypeScript, MySQL, Drizzle.
-- **[FAST Academic Hub](https://github.com/HuzaifaAbdulRehman/fast-academic-hub)** — Offline-first attendance planner that models planned absences. React, Vite, PWA.
-- **[Dijkstra + ML Routing](https://github.com/HuzaifaAbdulRehman/dijkstra-ml-routing-optimization)** — Route planning combining a custom Dijkstra implementation with XGBoost over OpenStreetMap networks. Python, NetworkX, OSMnx.
+- **[Driver Drowsiness Detection](https://github.com/HuzaifaAbdulRehman/driver-drowsiness-detection)**. MobileNetV2 eye-state classifier with MediaPipe landmarks, 97.3% on the MRL Eye dataset. Python, TensorFlow, OpenCV.
+- **[Electrolux EMS](https://github.com/HuzaifaAbdulRehman/Electrolux-EMS)**. Electricity distribution management: billing, usage, service requests, database-backed auth. Next.js, TypeScript, MySQL, Drizzle.
+- **[FAST Academic Hub](https://github.com/HuzaifaAbdulRehman/fast-academic-hub)**. Offline-first attendance planner that models planned absences. React, Vite, PWA.
+- **[Dijkstra + ML Routing](https://github.com/HuzaifaAbdulRehman/dijkstra-ml-routing-optimization)**. Route planning combining a custom Dijkstra implementation with XGBoost over OpenStreetMap networks. Python, NetworkX, OSMnx.
 
 ## Contact
 
