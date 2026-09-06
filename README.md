@@ -1,8 +1,10 @@
 # Huzaifa Abdul Rehman
 
-BS Computer Science at FAST NUCES, Karachi. Graduating 2027.
+BS Computer Science student at FAST NUCES in Karachi, Pakistan. Graduating in 2027.
 
-I contribute fixes to open-source projects and build web and machine-learning applications.
+I contribute fixes to open-source projects and work independently on quantum-inspired
+optimization and recommender systems. I build experiments that are allowed to disprove
+their own premise.
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -11,31 +13,37 @@ I contribute fixes to open-source projects and build web and machine-learning ap
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
+## Independent research
+
+- **[Feasible Rerank](https://github.com/HuzaifaAbdulRehman/feasible-rerank)**. Tested QUBO recommendation reranking across eight benchmarks, found that standard penalty-encoded cardinality can silently defeat annealers, and built two constraint-aware alternatives.
+- **[Budget Tune](https://github.com/HuzaifaAbdulRehman/budget-tune)**. Compared BOCS and FMQA-based QUBO search with strong classical hyperparameter optimization at equal measured CPU-seconds on a 5,052-cell benchmark. The quantum-inspired methods did not beat TPE.
+- **[Green Rerank](https://github.com/HuzaifaAbdulRehman/green-rerank)**. Measured training and serving costs by pipeline stage. Fairness reranking consumed 82-98% of per-request serving cost, while classical apportionment matched the QUBO's exposure parity at a fraction of the cost.
+
 ## Open source
 
 **Merged**
 
 | Change | What it fixed | Language |
 | --- | --- | --- |
-| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white) [warp#1879](https://github.com/NVIDIA/warp/pull/1879) | Fixed FEM shape optimization using a copied scalar buffer instead of a zero-copy view; added a regression test proving that vertices move | Python |
-| ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black) [candle#3931](https://github.com/huggingface/candle/pull/3931) | Ported four audio decoders to Symphonia 0.6, restoring the feature-gated Whisper and audio example builds | Rust |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) [compiler-builtins#1304](https://github.com/rust-lang/compiler-builtins/pull/1304) | Removed the deleted `abi_unadjusted` feature gate that broke `compiler-builtins` on current nightly | Rust |
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) [pprof#1023](https://github.com/google/pprof/pull/1023) | `pprof -web` and `weblist` silently opened nothing on Windows when the temp path contained a space, because `start` read the path as a window title | Go |
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) [pprof#1025](https://github.com/google/pprof/pull/1025) | `-tools` and `PPROF_TOOLS` were split at the Windows drive letter, so an absolute path was filed under a tool named `C` and never searched | Go |
-| ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white) [sentry-native#1987](https://github.com/getsentry/sentry-native/pull/1987) | Public interface for supplying a custom HTTP transport client | C |
-| ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white) [sentry-native#1911](https://github.com/getsentry/sentry-native/pull/1911) | Configurable Windows minidump flags, with crash-context propagation and tests | C |
-| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat) [vscode-cpptools#14592](https://github.com/microsoft/vscode-cpptools/pull/14592) | Portable `ps` arguments so the remote process picker works off Linux | TypeScript |
-| ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white) [eui#9841](https://github.com/elastic/eui/pull/9841) | Migrated `EuiFilterSelectItem` to a function component with behaviour preserved | React |
-| ![Oppia](https://img.shields.io/badge/Oppia-00645B?style=flat) [oppia#26888](https://github.com/oppia/oppia/pull/26888) | Migrated the community library acceptance suite from Puppeteer to Playwright | TypeScript |
+| <a href="https://github.com/NVIDIA/warp/pull/1879"><img src="https://github.com/NVIDIA.png?size=40" width="20" height="20" align="center" alt="NVIDIA"> NVIDIA/warp#1879</a> | Fixed FEM shape optimization using a copied scalar buffer instead of a zero-copy view; added a regression test proving that vertices move | Python |
+| <a href="https://github.com/huggingface/candle/pull/3931"><img src="https://github.com/huggingface.png?size=40" width="20" height="20" align="center" alt="Hugging Face"> Hugging Face/candle#3931</a> | Ported four audio decoders to Symphonia 0.6, restoring the feature-gated Whisper and audio example builds | Rust |
+| <a href="https://github.com/rust-lang/compiler-builtins/pull/1304"><img src="https://github.com/rust-lang.png?size=40" width="20" height="20" align="center" alt="Rust"> Rust/compiler-builtins#1304</a> | Removed the deleted `abi_unadjusted` feature gate that broke `compiler-builtins` on current nightly | Rust |
+| <a href="https://github.com/google/pprof/pull/1023"><img src="https://github.com/google.png?size=40" width="20" height="20" align="center" alt="Google"> Google/pprof#1023</a> | `pprof -web` and `weblist` silently opened nothing on Windows when the temp path contained a space, because `start` read the path as a window title | Go |
+| <a href="https://github.com/google/pprof/pull/1025"><img src="https://github.com/google.png?size=40" width="20" height="20" align="center" alt="Google"> Google/pprof#1025</a> | `-tools` and `PPROF_TOOLS` were split at the Windows drive letter, so an absolute path was filed under a tool named `C` and never searched | Go |
+| <a href="https://github.com/getsentry/sentry-native/pull/1987"><img src="https://github.com/getsentry.png?size=40" width="20" height="20" align="center" alt="Sentry"> Sentry/sentry-native#1987</a> | Public interface for supplying a custom HTTP transport client | C |
+| <a href="https://github.com/getsentry/sentry-native/pull/1911"><img src="https://github.com/getsentry.png?size=40" width="20" height="20" align="center" alt="Sentry"> Sentry/sentry-native#1911</a> | Configurable Windows minidump flags, with crash-context propagation and tests | C |
+| <a href="https://github.com/microsoft/vscode-cpptools/pull/14592"><img src="https://github.com/microsoft.png?size=40" width="20" height="20" align="center" alt="Microsoft"> Microsoft/vscode-cpptools#14592</a> | Portable `ps` arguments so the remote process picker works off Linux | TypeScript |
+| <a href="https://github.com/elastic/eui/pull/9841"><img src="https://github.com/elastic.png?size=40" width="20" height="20" align="center" alt="Elastic"> Elastic/eui#9841</a> | Migrated `EuiFilterSelectItem` to a function component with behaviour preserved | React |
+| <a href="https://github.com/oppia/oppia/pull/26888"><img src="https://github.com/oppia.png?size=40" width="20" height="20" align="center" alt="Oppia"> Oppia/oppia#26888</a> | Migrated the community library acceptance suite from Puppeteer to Playwright | TypeScript |
 
 **In review**
 
 | Change | What it fixes | Language |
 | --- | --- | --- |
-| ![Meta](https://img.shields.io/badge/Meta-0467DF?style=flat&logo=meta&logoColor=white) [hermes#2160](https://github.com/facebook/hermes/pull/2160) | Single-node AST replacement in hermes-parser was O(n²); made it O(1) | JavaScript |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) [compiler-builtins#1239](https://github.com/rust-lang/compiler-builtins/pull/1239) | Preserves the NaN sign bit through soft-float addition | Rust |
-| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat) [openai-agents-js#1776](https://github.com/openai/openai-agents-js/pull/1776) | Spawns pnpm without the Windows `.cmd` shim | TypeScript |
-| ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white) [claude-code-action#1755](https://github.com/anthropics/claude-code-action/pull/1755) | Runs git against the checkout instead of the ambient working directory | TypeScript |
+| <a href="https://github.com/facebook/hermes/pull/2160"><img src="https://github.com/facebook.png?size=40" width="20" height="20" align="center" alt="Meta"> Meta/hermes#2160</a> | Single-node AST replacement in hermes-parser was O(n²); made it O(1) | JavaScript |
+| <a href="https://github.com/rust-lang/compiler-builtins/pull/1239"><img src="https://github.com/rust-lang.png?size=40" width="20" height="20" align="center" alt="Rust"> Rust/compiler-builtins#1239</a> | Preserves the NaN sign bit through soft-float addition | Rust |
+| <a href="https://github.com/openai/openai-agents-js/pull/1776"><img src="https://github.com/openai.png?size=40" width="20" height="20" align="center" alt="OpenAI"> OpenAI/openai-agents-js#1776</a> | Spawns pnpm without the Windows `.cmd` shim | TypeScript |
+| <a href="https://github.com/anthropics/claude-code-action/pull/1755"><img src="https://github.com/anthropics.png?size=40" width="20" height="20" align="center" alt="Anthropic"> Anthropic/claude-code-action#1755</a> | Runs git against the checkout instead of the ambient working directory | TypeScript |
 
 ## Projects
 
