@@ -8,23 +8,23 @@ I build backend and AI systems. My research focuses on recommendation reranking.
 
 ## Open source
 
-18 merged pull requests across 13 organisations, checked 4 October 2026.
+18 merged pull requests across 13 organisations.
 
 | Organisation | Contribution | Merged PRs |
 | --- | --- | --- |
-| Microsoft | VS Code C/C++: portable remote process selection | [#14592](https://github.com/microsoft/vscode-cpptools/pull/14592) |
-| Google | pprof: Windows browser launching and tool-path parsing | [#1023](https://github.com/google/pprof/pull/1023), [#1025](https://github.com/google/pprof/pull/1025) |
-| NVIDIA | Warp: correct buffer aliasing in FEM shape optimisation | [#1879](https://github.com/NVIDIA/warp/pull/1879) |
-| Hugging Face | Candle: Symphonia 0.6 audio decoding compatibility | [#3931](https://github.com/huggingface/candle/pull/3931) |
-| Sentry | Native SDK: custom HTTP transports, minidump flags and bounded ELF build-ID parsing | [#1987](https://github.com/getsentry/sentry-native/pull/1987), [#1911](https://github.com/getsentry/sentry-native/pull/1911), [#2055](https://github.com/getsentry/sentry-native/pull/2055) |
-| Rust | compiler-builtins: NaN sign preservation and obsolete feature-gate removal | [#1239](https://github.com/rust-lang/compiler-builtins/pull/1239), [#1304](https://github.com/rust-lang/compiler-builtins/pull/1304) |
-| Cloudflare | Wrangler: portable absolute module names without basename collisions | [#15440](https://github.com/cloudflare/workers-sdk/pull/15440) |
-| Elastic | EUI: migrate a filter component to a function component | [#9841](https://github.com/elastic/eui/pull/9841) |
-| Eclipse | 4diac IDE: validate multiple adapter connections | [#2944](https://github.com/eclipse-4diac/4diac-ide/pull/2944) |
-| FOSSASIA | Eventyay: POST-only state changes and consistent form buttons | [#5542](https://github.com/fossasia/eventyay/pull/5542), [#217](https://github.com/fossasia/eventyay-exhibition/pull/217) |
-| iovisor | BCC: correct OpenZFS probe arguments in zfsslower | [#5554](https://github.com/iovisor/bcc/pull/5554) |
-| Oppia | Migrate a community-library browser test to Playwright | [#26888](https://github.com/oppia/oppia/pull/26888) |
-| sktime | Executable examples for dummy forecasting and classification catalogues | [#11077](https://github.com/sktime/sktime/pull/11077) |
+| <img src="https://github.com/microsoft.png?size=64" width="32" height="32" align="center" alt="Microsoft"> Microsoft | VS Code C/C++: portable remote process selection | [#14592](https://github.com/microsoft/vscode-cpptools/pull/14592) |
+| <img src="https://github.com/google.png?size=64" width="32" height="32" align="center" alt="Google"> Google | pprof: Windows browser launching and tool-path parsing | [#1023](https://github.com/google/pprof/pull/1023), [#1025](https://github.com/google/pprof/pull/1025) |
+| <img src="https://github.com/NVIDIA.png?size=64" width="32" height="32" align="center" alt="NVIDIA"> NVIDIA | Warp: correct buffer aliasing in FEM shape optimisation | [#1879](https://github.com/NVIDIA/warp/pull/1879) |
+| <img src="https://github.com/huggingface.png?size=64" width="32" height="32" align="center" alt="Hugging Face"> Hugging Face | Candle: Symphonia 0.6 audio decoding compatibility | [#3931](https://github.com/huggingface/candle/pull/3931) |
+| <img src="https://github.com/getsentry.png?size=64" width="32" height="32" align="center" alt="Sentry"> Sentry | Native SDK: custom HTTP transports, minidump flags and bounded ELF build-ID parsing | [#1987](https://github.com/getsentry/sentry-native/pull/1987), [#1911](https://github.com/getsentry/sentry-native/pull/1911), [#2055](https://github.com/getsentry/sentry-native/pull/2055) |
+| <img src="https://github.com/rust-lang.png?size=64" width="32" height="32" align="center" alt="Rust"> Rust | compiler-builtins: NaN sign preservation and obsolete feature-gate removal | [#1239](https://github.com/rust-lang/compiler-builtins/pull/1239), [#1304](https://github.com/rust-lang/compiler-builtins/pull/1304) |
+| <img src="https://github.com/cloudflare.png?size=64" width="32" height="32" align="center" alt="Cloudflare"> Cloudflare | Wrangler: portable absolute module names without basename collisions | [#15440](https://github.com/cloudflare/workers-sdk/pull/15440) |
+| <img src="https://github.com/elastic.png?size=64" width="32" height="32" align="center" alt="Elastic"> Elastic | EUI: migrate a filter component to a function component | [#9841](https://github.com/elastic/eui/pull/9841) |
+| <img src="https://github.com/eclipse-4diac.png?size=64" width="32" height="32" align="center" alt="Eclipse"> Eclipse | 4diac IDE: validate multiple adapter connections | [#2944](https://github.com/eclipse-4diac/4diac-ide/pull/2944) |
+| <img src="https://github.com/fossasia.png?size=64" width="32" height="32" align="center" alt="FOSSASIA"> FOSSASIA | Eventyay: POST-only state changes and consistent form buttons | [#5542](https://github.com/fossasia/eventyay/pull/5542), [#217](https://github.com/fossasia/eventyay-exhibition/pull/217) |
+| <img src="https://github.com/iovisor.png?size=64" width="32" height="32" align="center" alt="iovisor"> iovisor | BCC: correct OpenZFS probe arguments in zfsslower | [#5554](https://github.com/iovisor/bcc/pull/5554) |
+| <img src="https://github.com/oppia.png?size=64" width="32" height="32" align="center" alt="Oppia"> Oppia | Migrate a community-library browser test to Playwright | [#26888](https://github.com/oppia/oppia/pull/26888) |
+| <img src="https://github.com/sktime.png?size=64" width="32" height="32" align="center" alt="sktime"> sktime | Executable examples for dummy forecasting and classification catalogues | [#11077](https://github.com/sktime/sktime/pull/11077) |
 
 ## Projects
 
