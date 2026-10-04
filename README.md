@@ -28,10 +28,10 @@ I build backend and AI systems. My research focuses on recommendation reranking.
 
 ## Projects
 
-- [Driver Drowsiness Detection](https://github.com/HuzaifaAbdulRehman/driver-drowsiness-detection): eye-state classification with MobileNetV2 and MediaPipe.
-- [Electrolux EMS](https://github.com/HuzaifaAbdulRehman/Electrolux-EMS): utility billing, usage tracking and service requests. Next.js, TypeScript and MySQL.
-- [FAST Academic Hub](https://github.com/HuzaifaAbdulRehman/fast-academic-hub): offline-first attendance planning. React, Vite and PWA.
-- [Dijkstra + ML Routing](https://github.com/HuzaifaAbdulRehman/dijkstra-ml-routing-optimization): road-network routing with Dijkstra and learned travel-time estimates.
+- [ModelGate](https://github.com/HuzaifaAbdulRehman/model-gate): OpenAI-compatible LLM gateway with provider failover and explicit streaming failure handling. TypeScript, Fastify, PostgreSQL and Redis.
+- [Walkz](https://github.com/HuzaifaAbdulRehman/walkz): AI-assisted PR review that verifies suspected regressions with reproducers on exact base and head commits.
+- [HookRelay](https://github.com/HuzaifaAbdulRehman/HookRelay): signed webhook delivery with persistent retries, dead letters and replay. TypeScript, PostgreSQL and BullMQ.
+- [Devonoma](https://github.com/HuzaifaAbdulRehman/Devonoma): GitHub activity dashboard with signed webhook verification and idempotent event storage. Next.js and PostgreSQL.
 
 ## Independent research
 
