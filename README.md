@@ -8,7 +8,7 @@ I build backend and AI systems. My research focuses on recommendation reranking.
 
 ## Open source
 
-18 merged pull requests across 13 organisations.
+24 merged pull requests across 15 organisations.
 
 | Organisation | Contribution | Merged PRs |
 | --- | --- | --- |
@@ -19,12 +19,14 @@ I build backend and AI systems. My research focuses on recommendation reranking.
 | <img src="https://github.com/getsentry.png?size=64" width="32" height="32" align="center" alt="Sentry"> Sentry | Native SDK: custom HTTP transports, minidump flags and bounded ELF build-ID parsing | [#1987](https://github.com/getsentry/sentry-native/pull/1987), [#1911](https://github.com/getsentry/sentry-native/pull/1911), [#2055](https://github.com/getsentry/sentry-native/pull/2055) |
 | <img src="https://github.com/rust-lang.png?size=64" width="32" height="32" align="center" alt="Rust"> Rust | compiler-builtins: NaN sign preservation and obsolete feature-gate removal | [#1239](https://github.com/rust-lang/compiler-builtins/pull/1239), [#1304](https://github.com/rust-lang/compiler-builtins/pull/1304) |
 | <img src="https://github.com/cloudflare.png?size=64" width="32" height="32" align="center" alt="Cloudflare"> Cloudflare | Wrangler: portable absolute module names without basename collisions | [#15440](https://github.com/cloudflare/workers-sdk/pull/15440) |
+| <img src="https://github.com/open-telemetry.png?size=64" width="32" height="32" align="center" alt="OpenTelemetry"> OpenTelemetry | Zig SDK: metric exemplar sampling and OTLP export | [#130](https://github.com/open-telemetry/opentelemetry-zig/pull/130) |
 | <img src="https://github.com/elastic.png?size=64" width="32" height="32" align="center" alt="Elastic"> Elastic | EUI: migrate a filter component to a function component | [#9841](https://github.com/elastic/eui/pull/9841) |
-| <img src="https://github.com/eclipse-4diac.png?size=64" width="32" height="32" align="center" alt="Eclipse"> Eclipse | 4diac IDE: validate multiple adapter connections | [#2944](https://github.com/eclipse-4diac/4diac-ide/pull/2944) |
-| <img src="https://github.com/fossasia.png?size=64" width="32" height="32" align="center" alt="FOSSASIA"> FOSSASIA | Eventyay: POST-only state changes and consistent form buttons | [#5542](https://github.com/fossasia/eventyay/pull/5542), [#217](https://github.com/fossasia/eventyay-exhibition/pull/217) |
+| <img src="https://github.com/eclipse-4diac.png?size=64" width="32" height="32" align="center" alt="Eclipse"> Eclipse | 4diac IDE: validate multiple adapter connections and circular struct member references | [#2944](https://github.com/eclipse-4diac/4diac-ide/pull/2944), [#2949](https://github.com/eclipse-4diac/4diac-ide/pull/2949) |
+| <img src="https://github.com/fossasia.png?size=64" width="32" height="32" align="center" alt="FOSSASIA"> FOSSASIA | Eventyay: POST-only state changes and consistent form buttons; sponsor deletion confirmation and private submission deadlines | [#5542](https://github.com/fossasia/eventyay/pull/5542), [#217](https://github.com/fossasia/eventyay-exhibition/pull/217), [#280](https://github.com/fossasia/eventyay-exhibition/pull/280), [#309](https://github.com/fossasia/eventyay-exhibition/pull/309), [#313](https://github.com/fossasia/eventyay-exhibition/pull/313) |
 | <img src="https://github.com/iovisor.png?size=64" width="32" height="32" align="center" alt="iovisor"> iovisor | BCC: correct OpenZFS probe arguments in zfsslower | [#5554](https://github.com/iovisor/bcc/pull/5554) |
 | <img src="https://github.com/oppia.png?size=64" width="32" height="32" align="center" alt="Oppia"> Oppia | Migrate a community-library browser test to Playwright | [#26888](https://github.com/oppia/oppia/pull/26888) |
 | <img src="https://github.com/sktime.png?size=64" width="32" height="32" align="center" alt="sktime"> sktime | Executable examples for dummy forecasting and classification catalogues | [#11077](https://github.com/sktime/sktime/pull/11077) |
+| <img src="https://github.com/grame-cncm.png?size=64" width="32" height="32" align="center" alt="GRAME"> GRAME | Faust WebAssembly: document polyphonic control smoothing | [#48](https://github.com/grame-cncm/faustwasm/pull/48) |
 
 ## Projects
 
